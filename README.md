@@ -1,5 +1,5 @@
 # Brena
 
-Brena is a UI system that create pseudo-3d experience by responsive animation and highly-optimized ray-tracing engine.
+Brena is an UI system that creates pseudo-3d experience by responsive animation and highly-optimized ray-tracing engine. Purpose of is project is to implement an ideal `fluent design` in my eye.
 
-Project still in plan.
+project still in plan.
